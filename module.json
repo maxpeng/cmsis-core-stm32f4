@@ -26,6 +26,9 @@
     "stm32f401xe": {
       "cmsis-core-stm32f401xe": "~0.1.0"
     },
+    "stm32f411xe": {
+      "cmsis-core-stm32f411xe": "~0.0.1"
+    },
     "stm32f407xg": {
       "cmsis-core-stm32f407xg": "~0.0.1"
     },
